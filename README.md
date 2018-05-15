@@ -5,7 +5,7 @@
 This is a backend repository for eHunter - CV Filtering System (NLP). Built with PHP. 
 
 ## How to use
-- Clone this repository `git clone https://github.com/heryvandoro/ehunter-frontend`
+- Clone this repository `git clone https://github.com/heryvandoro/ehunter-nlp`
 - Serve the project with apache or build in server `php -S localhost:1000`
 
 ## Features
